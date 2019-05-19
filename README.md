@@ -1,5 +1,7 @@
-# PatchPacket-for-WindowsXPSP3
-# Windows XP SP3 补丁合集
+# Windows XP SP3 补丁合集 X86
+
+# PatchPacket-for-WindowsXPSP3-x86
+
 # 补丁为简体汉字版本
 # 打包下载后直接运行patch.cmd进行安装即可，安装完将自动重启（有可选项）
 
